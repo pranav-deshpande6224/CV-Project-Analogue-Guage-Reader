@@ -22,10 +22,7 @@ For example, image file: 4.jpg
 3. Putting the video 
 4. Output video with real-time PSI values  
 
-
-<p align="center">
-  <iframe width="400" height="225" src="https://youtu.be/SqXWDPsQo8M" frameborder="0" allowfullscreen></iframe>
-  <iframe width="400" height="225" src="https://youtu.be/gty_emk3PEE" frameborder="0" allowfullscreen></iframe>
-</p>
+ORIGINAL VIDEO - https://youtu.be/SqXWDPsQo8M
+APPLIED CV Technique to DETECT PSI of ANALOG GUAGE - https://youtu.be/gty_emk3PEE
 
 
