@@ -23,6 +23,8 @@ For example, image file: 4.jpg
 4. Output video with real-time PSI values  
 
 ORIGINAL VIDEO - https://youtu.be/SqXWDPsQo8M <br>
-APPLIED CV Technique to DETECT PSI of ANALOG GUAGE - https://youtu.be/gty_emk3PEE
+APPLIED CV Technique to DETECT PSI of ANALOG GUAGE - https://youtu.be/gty_emk3PEE<br>
+<b>NOTE:<b> In the 2nd Video where YOLO is applied on Analog guage see the Black Reading instead of Red Readings
+
 
 
